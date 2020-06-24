@@ -34,7 +34,7 @@
 				          	<a class="nav-link" onclick="alert('Sorry but this page is not ready yet.')">Accessories</a>
 				        </li>
   						<li class="nav-item">
-  							<a class="nav-link" href="list.html">List</a>
+                                                    <a class="nav-link" href="InsertData.php">Insert</a>
   						</li>
 				        <li class="nav-item">
 				            <a class="nav-link" onclick="alert('Sorry but this page is not ready yet.')">About</a>
