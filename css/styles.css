@@ -19,8 +19,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    position: absolute;
-    top: 50%
 }
 .buttons .button-view {
     padding: 15px 25px;
@@ -29,6 +27,8 @@
     font-size: 18px;
     border-radius: 0.8px;
     text-decoration: none;
+    position: absolute;
+    top: 50%;
 }
 .buttons .button-insert {
     padding: 15px 25px;
@@ -37,4 +37,6 @@
     font-size: 18px;    
     border-radius: 0.8px;
     text-decoration: none;
+    position: absolute;
+    top: 50%;
 }
