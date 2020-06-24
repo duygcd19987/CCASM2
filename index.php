@@ -25,7 +25,7 @@
   				<div class="collaps navbar-collapse" id="navbarSupportedContent">
   					<ul class="navbar-nav">
   						<li class="nav-item">
-  							<a class="nav-link" href="home.html">Home</a>
+                                                    <a class="nav-link" href="ConnectToDB.php">View</a>
   						</li>
             			<li class="nav-item">
               				<a class="nav-link" onclick="alert('Sorry but this page is not ready yet.')">Clothes</a>
