@@ -5,8 +5,7 @@
         box-sizing: border-box;
     }
     #wrap {
-        display: block;
-        margin: auto;
+        text-align: center
     }
     ul,
     li {
@@ -20,6 +19,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    position: absolute;
+    top: 50%
 }
 .buttons .button-view {
     padding: 15px 25px;
@@ -33,7 +34,7 @@
     padding: 15px 25px;
     background-color: black;
     color: white;
-    font-size: 18px;
+    font-size: 18px;    
     border-radius: 0.8px;
     text-decoration: none;
 }
