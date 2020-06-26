@@ -47,8 +47,46 @@
             			<button class="btn" type="submit" onclick="alert('Sorry but this feature is not ready yet.')"><i class="fas fa-search"></i></button>
           			</form>
         		</div>
-      		</nav>
-		</header>
+                        </nav>
+                </header>
+            <main>
+                        <div id="line"><b><u>Check out</u> the previews of available lines of merchandises</b></div>
+      <div class="container">
+        <div id="slide" class="carousel slide" data-ride="carousel">
+          <ul class="carousel-indicators">
+            <li data-target="#slide" data-slide-to="0" class="active"></li>
+            <li data-target="#slide" data-slide-to="1"></li>
+            <li data-target="#slide" data-slide-to="2"></li>
+          </ul>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="img/13.jpg" alt="Men">
+              <div class="carousel-caption" style="color: blue">
+                <b><i>Stylish male garments</i></b>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <img src="img/14.jpg" alt="Women">
+              <div class="carousel-caption" style="color: green">
+                <b><i>Fashionable female garments</i></b>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <img src="img/15.jpg" alt="Accessories" style="height: 642px !important">
+              <div class="carousel-caption" style="color: red">
+                <b><i>And various types of trendy accessories</i></b>
+              </div>
+            </div>
+          </div>
+          <a class="carousel-control-prev" href="#slide" data-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+          </a>
+          <a class="carousel-control-next" href="#slide" data-slide="next">
+            <span class="carousel-control-next-icon"></span>
+          </a>
+        </div>
+      </div>
+            </main>
     <footer>
       <div class="footer">
         <div class="container">
