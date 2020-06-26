@@ -53,7 +53,7 @@
                         <div id="line"><b><u>Check out</u> our new merchandise lines of Red Sentai figures!</b></div>
       <div class="container">
           <div class="carousel-inner">
-              <img src="img/SuperSentaiSeries.jpg.jpg" alt="Toys">
+              <img src="img/SuperSentaiSeries.jpg" alt="Toys">
           </div>
       </div>
             </main>
