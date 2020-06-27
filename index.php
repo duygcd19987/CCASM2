@@ -11,8 +11,10 @@
 	<title>ATN Store Home page</title>
 </head>
 <body>
-	<div id="wrap">
-		<header>
+	<header>
+            <div id="logo">
+                <img src="img/logo.png" alt="ATN logo & tagline">
+            </div>
 			<nav class= "navbar navbar-expand-md bg-dark">
 				<a class="navbar-brand" href="#">Navigation</a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
